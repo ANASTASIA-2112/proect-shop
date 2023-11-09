@@ -1,0 +1,11 @@
+Model Information:
+* title:	Children's shoes
+* source:	https://sketchfab.com/3d-models/childrens-shoes-4bef5d1c53404ef9875594bf16d4d99b
+* author:	Foto Retina (https://sketchfab.com/ferret)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Children's shoes" (https://sketchfab.com/3d-models/childrens-shoes-4bef5d1c53404ef9875594bf16d4d99b) by Foto Retina (https://sketchfab.com/ferret) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
